@@ -7,9 +7,7 @@ An interactive 2D educational game for fourth-grade pupils to learn Romanian geo
 Contributed as **Backend Developer** and **Scrum Master**:
 
 - Designed and built the **JSON-based data layer** storing game questions and level configurations, which drove cross-difficulty progression and dynamic scene management across all 12 games
-- Coordinated the team of 10 as Scrum Master - ran sprint ceremonies, owned the product backlog, and maintained direct feedback loops with the client teacher and her pupils
-- Translated user feedback into product decisions, including the treasure-chest reward for completing each difficulty tier and the expansion of game variety within levels
-
+- Supported the Scrum Master in coordinating the team of 10
 ## About
 
 Traditional geography lessons in Romanian primary schools often rely on blackboard-and-textbook methods. This app was built with a local fourth-grade teacher and her class as active partners, replacing rote memorization with tablet-based mini-games. Pupils play during class sessions, making learning interactive and fun.
